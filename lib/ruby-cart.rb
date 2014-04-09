@@ -1,0 +1,5 @@
+require_relative 'ruby-cart/checkout'
+require_relative 'ruby-cart/product'
+require_relative 'ruby-cart/rule'
+require_relative 'ruby-cart/total_discount_rule'
+require_relative 'ruby-cart/price_drop_rule'
